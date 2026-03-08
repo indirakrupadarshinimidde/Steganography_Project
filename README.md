@@ -27,6 +27,3 @@ Decode:
 
 ## Author
 Indira Krupadarshini Midde
-
-## Author
-Indira Krupadarshini Midde
