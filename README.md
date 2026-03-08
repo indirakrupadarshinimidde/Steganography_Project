@@ -15,7 +15,7 @@ This project implements image steganography using the Least Significant Bit (LSB
 - Structures
 
 ## How to Compile
-gcc *.c 
+gcc *.c -o steganography
 
 ## How to Run
 
@@ -24,6 +24,9 @@ Encode:
 
 Decode:
 ./steganography -d stego.bmp decoded.txt
+
+## Author
+Indira Krupadarshini Midde
 
 ## Author
 Indira Krupadarshini Midde
